@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+known_devices.json
+known_devices.tmp

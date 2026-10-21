@@ -1,0 +1,6 @@
+# Versiuni testate. mcp 2.x a schimbat API-ul (FastMCP -> MCPServer),
+# iar asusrouter își schimbă des modulele, deci actualizează conștient.
+mcp[cli]==2.3.0
+asusrouter==1.21.3
+aiohttp==3.14.5
+pydantic==2.14.1
